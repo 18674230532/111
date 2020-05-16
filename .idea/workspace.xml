@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feed73d3-2cb4-491d-89e0-9a6a45b4e2bb" name="Default Changelist" comment="" />
+    <list default="true" id="feed73d3-2cb4-491d-89e0-9a6a45b4e2bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bt5OgYYRvURQt3iZPKWuWDomNQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -78,18 +81,34 @@
       <workItem from="1589438521552" duration="2114000" />
       <workItem from="1589448615544" duration="797000" />
       <workItem from="1589511122118" duration="1534000" />
-      <workItem from="1589638933459" duration="559000" />
+      <workItem from="1589638933459" duration="1658000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit Message">
+      <created>1589639639018</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589639639018</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit Message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Message" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589511189620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589511189620" />
+    <state x="459" y="114" key="CommitChangelistDialog2" timestamp="1589639637895">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="459" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589639637895" />
     <state x="801" y="386" key="FileChooserDialogImpl" timestamp="1589639550662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -98,10 +117,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="600" y="223" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1589448247410" />
-    <state x="428" y="228" key="SettingsEditor" timestamp="1589639503940">
+    <state x="428" y="228" key="SettingsEditor" timestamp="1589640593044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="428" y="228" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589639503940" />
+    <state x="428" y="228" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1589640593044" />
     <state x="652" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1589638938310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
